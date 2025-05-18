@@ -49,7 +49,7 @@ python tic_tac_toe.py
 
 - At the start, select game mode:
   - `1` → Player vs Player
-    - `2` → Player vs Computer
+  - `2` → Player vs Computer
 - Players take turns entering their moves by specifying the cell number
 - The computer AI uses the Minimax algorithm to play optimally
 
