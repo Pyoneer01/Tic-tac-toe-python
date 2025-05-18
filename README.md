@@ -61,30 +61,6 @@ In **Player vs Computer Mode**, the AI uses the **Minimax algorithm**, which rec
 
 This makes the computer **unbeatable** – it will either win or force a draw!
 
----
-
-## 🖥️ Sample Output
-
-```
-Welcome to Tic Tac Toe!
-Choose Game Mode:
-1 - Player vs Player
-2 - Player vs Computer
-
-Enter your choice: 2
-
-You are X. Computer is O.
-  1   2   3
-1   |   |  
- ---+---+---
-2   |   |  
- ---+---+---
-3   |   |  
-
-Your move (row and column): 1 1
-```
-
----
 
 ## 🧠 Future Enhancements
 
